@@ -1,6 +1,6 @@
 ---
 name: KanBan Note
-about: Describe this issue template's purpose here.
+about: Used to create a KanBan note
 title: ''
 labels: ''
 assignees: ''
